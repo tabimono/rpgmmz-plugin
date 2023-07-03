@@ -19,7 +19,8 @@ let speed = 98 // for turn order
 ## Mechanics
 ### Movement
 Each character moves differently in dependence on its type
-![](https://i.ibb.co/1MT79Pj/Pasted-image-20230703001845.png)![[Pasted image 20230703001906.png]](https://i.ibb.co/SdS4bqg/Pasted-image-20230703001906.png)
+
+![](https://i.ibb.co/1MT79Pj/Pasted-image-20230703001845.png)![](https://i.ibb.co/SdS4bqg/Pasted-image-20230703001906.png)
 I guess the movement will be the same as in Chessboard
 ### Action list
 After moving the character, they have to do some action to end the turn 
